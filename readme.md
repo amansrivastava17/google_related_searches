@@ -1,6 +1,6 @@
 ## Google Related Searches 
 
-Simple python module to get list of similar related searches people do on google given your user query on google search  
+Simple python module to get list of  related searches similar to that of what people do on google for a  given user query on google search.  
 
 #### Install Dependencies
 
