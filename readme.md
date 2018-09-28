@@ -4,7 +4,9 @@ Given a user query this python module will returns a list of related searches yo
 
 #### Install Dependencies
 
-`pip install -r requirements.txt`
+`git clone https://github.com/amansrivastava17/google_related_searches.git
+cd google_related_searches
+pip install -r requirements.txt`
 
 #### Usage example
 
